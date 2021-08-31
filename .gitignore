@@ -12,3 +12,8 @@ C*_W*_Assign*.*
 */*/C*_W*_Assign*.*
 */*/*/C*_W*_Assign*.*
 */*/*/*/C*_W*_Assign*.*
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+*/*/.ipynb_checkpoints/*
+*/*/*/.ipynb_checkpoints/*
+*/*/*/*/.ipynb_checkpoints/*
